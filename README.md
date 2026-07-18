@@ -2,7 +2,7 @@
 
 **Statistical Arbitrage Foundations · Correlation & Regression Analysis · Bloomberg Terminal · R**
 
-> FE-511 Final Project — MS Financial Engineering, Stevens Institute of Technology (Dec 2024)
+> FE-511 Final Project — MS Financial Engineering, Stevens Institute of Technology 
 
 > Author: Swara Dave
 
